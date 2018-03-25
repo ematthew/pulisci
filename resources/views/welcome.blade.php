@@ -68,7 +68,7 @@
 
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="img-responsive" src="/img/logo.jpg" alt="Slider Image">
+                    <img class="img-responsive" src="/img/cats.png" alt="Slider Image">
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
